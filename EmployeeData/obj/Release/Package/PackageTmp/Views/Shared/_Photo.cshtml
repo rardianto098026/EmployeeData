@@ -1,0 +1,7 @@
+﻿@{
+    //var Photo = "~/Images/Foto/" + Session["ShortEntity"] + "/" + Session["EmployeeNumber"] + " - " + Session["UserID"] + ".png";
+    
+    var Photo = "~/Images/Foto/Employee/" + Session["EmployeeNumber"] + " - " + Session["UserID"] + ".png";
+}
+
+<img src="@Url.Content(@Photo)" class="nav-user-photo" style="margin-left:15px" alt="Image" />

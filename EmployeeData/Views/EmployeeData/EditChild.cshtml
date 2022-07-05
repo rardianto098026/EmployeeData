@@ -1,0 +1,628 @@
+﻿@model EmployeeData.Models.EmployeeDataModels
+
+@using (Html.BeginForm("EditChild", "EmployeeData", FormMethod.Post))
+{
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Home</a>
+                </li>
+
+                <li>
+                    <a href="#">Admin</a>
+                </li>
+                <li class="active">Employee Data</li>
+            </ul><!-- /.breadcrumb -->
+            @*<div class="nav-search" id="nav-search">
+                    <form class="form-search">
+                        <span class="input-icon">
+                            <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off">
+                            <i class="ace-icon fa fa-search nav-search-icon"></i>
+                        </span>
+                    </form>
+                </div>*@<!-- /.nav-search -->
+        </div>
+
+        <div class="page-content">
+            <div class="ace-settings-container" id="ace-settings-container">
+                <div class="btn btn-app btn-xs btn-warning ace-settings-btn" id="ace-settings-btn">
+                    <i class="ace-icon fa fa-cog bigger-130"></i>
+                </div>
+
+                <div class="ace-settings-box clearfix" id="ace-settings-box">
+                    <div class="pull-left width-50">
+                        <div class="ace-settings-item">
+                            <div class="pull-left">
+                                <select id="skin-colorpicker" class="hide">
+                                    <option data-skin="no-skin" value="#438EB9">#438EB9</option>
+                                    <option data-skin="skin-1" value="#222A2D">#222A2D</option>
+                                    <option data-skin="skin-2" value="#C6487E">#C6487E</option>
+                                    <option data-skin="skin-3" value="#D0D0D0">#D0D0D0</option>
+                                </select><div class="dropdown dropdown-colorpicker"><a data-toggle="dropdown" class="dropdown-toggle"><span class="btn-colorpicker" style="background-color:#438EB9"></span></a><ul class="dropdown-menu dropdown-caret"><li><a class="colorpick-btn selected" style="background-color:#438EB9;" data-color="#438EB9"></a></li><li><a class="colorpick-btn" style="background-color:#222A2D;" data-color="#222A2D"></a></li><li><a class="colorpick-btn" style="background-color:#C6487E;" data-color="#C6487E"></a></li><li><a class="colorpick-btn" style="background-color:#D0D0D0;" data-color="#D0D0D0"></a></li></ul></div>
+                            </div>
+                            <span>&nbsp; Choose Skin</span>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-navbar" autocomplete="off">
+                            <label class="lbl" for="ace-settings-navbar"> Fixed Navbar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-sidebar" autocomplete="off">
+                            <label class="lbl" for="ace-settings-sidebar"> Fixed Sidebar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-breadcrumbs" autocomplete="off">
+                            <label class="lbl" for="ace-settings-breadcrumbs"> Fixed Breadcrumbs</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-rtl" autocomplete="off">
+                            <label class="lbl" for="ace-settings-rtl"> Right To Left (rtl)</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-add-container" autocomplete="off">
+                            <label class="lbl" for="ace-settings-add-container">
+                                Inside
+                                <b>.container</b>
+                            </label>
+                        </div>
+                    </div><!-- /.pull-left -->
+
+                    <div class="pull-left width-50">
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-hover" autocomplete="off">
+                            <label class="lbl" for="ace-settings-hover"> Submenu on Hover</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-compact" autocomplete="off">
+                            <label class="lbl" for="ace-settings-compact"> Compact Sidebar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-highlight" autocomplete="off">
+                            <label class="lbl" for="ace-settings-highlight"> Alt. Active Item</label>
+                        </div>
+                    </div><!-- /.pull-left -->
+                </div><!-- /.ace-settings-box -->
+            </div><!-- /.ace-settings-container -->
+
+            <div class="page-header">
+                <h1>
+                    HR Employee Data
+                    <small>
+                        <i class="ace-icon fa fa-angle-double-right"></i>
+                        Add / Edit Data
+                    </small>
+                </h1>
+            </div><!-- /.page-header -->
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <div class="row">
+                        <div class="col-xs-12">
+
+                            <form class="form-horizontal">
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> idx </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("idx", null, new { id = "idx", @class = "col-xs-10 col-sm-5", @placeholder = "", @readonly = "readonly" })
+                                    </div>
+                                </div><br /><br />
+
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Employee ID </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("EmployeeID", null, new { id = "EmployeeID", @class = "col-xs-10 col-sm-5", @placeholder = "", @readonly = "readonly" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Full Name </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("EmployeeName", null, new { id = "EmployeeName", @class = "col-xs-10 col-sm-5", @placeholder = "", @readonly = "readonly" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> BirthDate </label>
+                                    <div class="col-sm-9">
+                                        @Html.EditorFor(model => model.Birthdate, "{0:dd/MM/yyyy}", new { htmlAttributes = new { @class = "form-control date" } })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Gender </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Gender_ID, Model.Gender, new { id = "Grade", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> NIK </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("NIK", null, new { id = "NIK", @class = "col-xs-10 col-sm-5", @placeholder = "", @readonly = "readonly" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Handphone </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Handphone", null, new { id = "Handphone", @class = "col-xs-10 col-sm-5", @placeholder = "", @readonly = "readonly" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> No Polis </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Membership_No_Polis", null, new { id = "Health_Plan_Membership_No_Polis", @class = "col-xs-10 col-sm-5", @placeholder = "" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> No Peserta </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Membership_No_Peserta", null, new { id = "Health_Plan_Membership_No_Peserta", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Membership No Peserta" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> No Kartu </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Membership_No_Kartu", null, new { id = "Health_Plan_Membership_No_Kartu", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Membership No Kartu" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Benefit Rawat Inap </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Benefit_Rawat_Inap", null, new { id = "Health_Plan_Benefit_Rawat_Inap", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Benefit Rawat Inap" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Benefit Rawat Jalan </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Benefit_Rawat_Jalan", null, new { id = "Health_Plan_Benefit_Rawat_Jalan", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Benefit Rawat Jalan" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Benefit Persalinan </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Benefit_Persalinan", null, new { id = "Health_Plan_Benefit_Persalinan", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Benefit Persalinan" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Benefit Gigi </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Benefit_Gigi", null, new { id = "Health_Plan_Benefit_Gigi", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Benefit Gigi" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Benefit Kacamata </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("Health_Plan_Benefit_Kacamata", null, new { id = "Health_Plan_Benefit_Kacamata", @class = "col-xs-10 col-sm-5", @placeholder = "Health Plan Benefit Kacamata" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kesehatan ID </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("BPJS_Kesehatan_ID", null, new { id = "BPJS_Kesehatan_ID", @class = "col-xs-10 col-sm-5", @placeholder = "" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Province Faskes TK 1</label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Provinsi_FASKES_ID, Model.Provinsi_FASKES, new { id = "Provinsi_FASKES", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kotamadya Faskes TK 1</label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Kotamadya_FASKES_ID, Model.Kotamadya_FASKES, new { id = "Kotamadya_FASKES", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kecamatan Faskes TK 1</label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Kecamatan_FASKES_ID, Model.Kecamatan_FASKES, new { id = "Kecamatan_FASKES", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Faskes TK 1 </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.BPJS_Kesehatan_Faskes_Tingkat_Pertama_ID, Model.BPJS_Kesehatan_Faskes_Tingkat_Pertama, new { id = "FASKES_TK", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <!-- GIGI -->
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Province Faskes drg </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Provinsi_GIGI_ID, Model.Provinsi_GIGI, new { id = "Provinsi_GIGI", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kotamadya Faskes drg</label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Kotamadya_GIGI_ID, Model.Kotamadya_GIGI, new { id = "Kotamadya_GIGI", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kecamatan Faskes drg</label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Kecamatan_GIGI_ID, Model.Kecamatan_GIGI, new { id = "Kecamatan_GIGI", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Faskes drg  </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.BPJS_Kesehatan_Faskes_Dokter_Gigi_ID, Model.BPJS_Kesehatan_Faskes_Dokter_Gigi, new { id = "FASKES_GIGI", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <!-- END GIGI -->
+                                <div style="margin-left:15px">
+                                    <button class="btn btn-sm btn-success" type="submit" name="submit" id="Submit" value="Submit" @*disabled="@Model.Disabled"*@ style="margin-left:100px; height:40px; width:100px">
+                                        Submit
+                                    </button>
+                                    <button class="btn navbar-btn" type="submit" name="submit" id="back" value="Back" style="height:40px; width:100px; margin-left:30px; ">
+                                        Back
+                                    </button>
+                                </div><br />
+                                <div class="col-xs-12">
+                                    @Html.Raw(TempData["messageRequest"])
+                                    @Html.Raw(TempData["SuccessRequest"])
+                                    @Html.Raw(TempData["ErrorRequest"])
+
+                                    <b><font color="Red">@Html.Raw(TempData["CountData"])</font></b>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<script src="~/assets/js/jquery-2.1.4.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        flatpickr('.date', { dateFormat: 'd-m-Y' });
+    });
+</script>
+<script>
+        $(function() {
+
+            $(".MyTreeView").find(":checkbox").change(function() {
+                //check or uncheck childs
+                var nextele = $(this).closest("table").next()[0];
+                if (nextele && nextele.tagName == "DIV") {
+                    $(nextele).find(":checkbox").prop("checked", $(this).prop("checked"));
+
+                }
+                //check nodes all with the recursive method
+                CheckChildNodes($(".MyTreeView").find(":checkbox").first());
+
+            });
+            //method check filial nodes
+            function CheckChildNodes(Parentnode) {
+
+                var nextele = $(Parentnode).closest("table").next()[0];
+
+                if (nextele && nextele.tagName == "DIV") {
+                    $(nextele).find(":checkbox").each(function() {
+                        CheckChildNodes($(this));
+                    });
+
+                    if ($(nextele).find("input:checked").length == 0) {
+                        $(Parentnode).removeAttr("checked");
+                    }
+                    if ($(nextele).find("input:checked").length > 0) {
+                        $(Parentnode).prop("checked", "checked");
+                    }
+
+                }
+                else { return; }
+
+            }
+
+        })
+</script>
+@*<script type="text/javascript">
+            (function($) {
+                $.widget("custom.combobox", {
+                    _create: function() {
+                        this.wrapper = $("<span>")
+              .addClass("custom-combobox")
+              .insertAfter(this.element);
+
+                        this.element.hide();
+                        this._createAutocomplete();
+                        this._createShowAllButton();
+                    },
+
+                    _createAutocomplete: function() {
+                        var selected = this.element.children(":selected"),
+              value = selected.val() ? selected.text() : "";
+
+                        this.input = $("<input>")
+              .appendTo(this.wrapper)
+              .val(value)
+              .attr("title", "")
+              .addClass("custom-combobox-input ui-widget ui-widget-content ui-state-default ui-corner-left")
+              .autocomplete({
+                  delay: 0,
+                  minLength: 0,
+                  source: $.proxy(this, "_source")
+              })
+              .tooltip({
+                  tooltipClass: "ui-state-highlight"
+              });
+
+                        this._on(this.input, {
+                            autocompleteselect: function(event, ui) {
+                                ui.item.option.selected = true;
+                                this._trigger("select", event, {
+                                    item: ui.item.option
+                                });
+                            },
+
+                            autocompletechange: "_removeIfInvalid"
+                        });
+                    },
+
+                    _createShowAllButton: function() {
+                        var input = this.input,
+              wasOpen = false;
+
+                        $("<a>")
+              .attr("tabIndex", -1)
+              .attr("title", "Show All Items")
+              .tooltip()
+              .appendTo(this.wrapper)
+              .button({
+                  icons: {
+                      primary: "ui-icon-triangle-1-s"
+                  },
+                  text: false
+              })
+              .removeClass("ui-corner-all")
+              .addClass("custom-combobox-toggle ui-corner-right")
+              .mousedown(function() {
+                  wasOpen = input.autocomplete("widget").is(":visible");
+              })
+              .click(function() {
+                  input.focus();
+
+                  // Close if already visible
+                  if (wasOpen) {
+                      return;
+                  }
+
+                  // Pass empty string as value to search for, displaying all results
+                  input.autocomplete("search", "");
+              });
+                    },
+
+                    _source: function(request, response) {
+                        var matcher = new RegExp($.ui.autocomplete.escapeRegex(request.term), "i");
+                        response(this.element.children("option").map(function() {
+                            var text = $(this).text();
+                            if (this.value && (!request.term || matcher.test(text)))
+                                return {
+                                    label: text,
+                                    value: text,
+                                    option: this
+                                };
+                        }));
+                    },
+
+                    _removeIfInvalid: function(event, ui) {
+
+                        // Selected an item, nothing to do
+                        if (ui.item) {
+                            return;
+                        }
+
+                        // Search for a match (case-insensitive)
+                        var value = this.input.val(),
+              valueLowerCase = value.toLowerCase(),
+              valid = false;
+                        this.element.children("option").each(function() {
+                            if ($(this).text().toLowerCase() === valueLowerCase) {
+                                this.selected = valid = true;
+                                return false;
+                            }
+                        });
+
+                        // Found a match, nothing to do
+                        if (valid) {
+                            return;
+                        }
+
+                        // Remove invalid value
+                        this.input
+              .val("")
+              .attr("title", value + " didn't match any item")
+              .tooltip("open");
+                        this.element.val("");
+                        this._delay(function() {
+                            this.input.tooltip("close").attr("title", "");
+                        }, 2500);
+                        this.input.data("ui-autocomplete").term = "";
+                    },
+
+                    _destroy: function() {
+                        this.wrapper.remove();
+                        this.element.show();
+                    }
+                });
+            })(jQuery);
+
+            $(function() {
+                $("#Dept").combobox();
+                $("#toggle").click(function() {
+                    $("#Dept").toggle();
+                });
+            });
+    </script>*@
+<link href="~/assets/css/Drop.css" rel="stylesheet" />
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Provinsi_FASKES").change(function () {
+            $("#Kotamadya_FASKES").empty();
+            $("#Kecamatan_FASKES").empty();
+            $("#FASKES_TK").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKotaMadyaList_FASKES',
+                dataType: 'json',
+                data: { id: $("#Provinsi_FASKES").val() },
+
+                success: function (user) {
+                    $("#Kotamadya_FASKES").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kotamadya_FASKES").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kotamadya_FASKES").change(function () {
+            $("#Kecamatan_FASKES").empty();
+            $("#FASKES_TK").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKecamatanList_FASKES',
+                dataType: 'json',
+                data: { id: $("#Kotamadya_FASKES").val(), idx: $("#Provinsi_FASKES").val() },
+                success: function (user) {
+                    $("#Kecamatan_FASKES").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kecamatan_FASKES").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kecamatan_FASKES").change(function () {
+            $("#FASKES_TK").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getFASKES_LIST',
+                dataType: 'json',
+                data: { id: $("#Kecamatan_FASKES").val(), idx: $("#Provinsi_FASKES").val(), idx2: $("#Kotamadya_FASKES").val() },
+
+                success: function (user) {
+                    $("#FASKES_TK").empty();
+                    $.each(user, function (i, usr) {
+                        $("#FASKES_TK").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+
+<!-- GIGI -->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Provinsi_GIGI").change(function () {
+            $("#Kotamadya_GIGI").empty();
+            $("#Kecamatan_GIGI").empty();
+            $("#FASKES_GIGI").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKotaMadyaList_GIGI',
+                dataType: 'json',
+                data: { id: $("#Provinsi_GIGI").val() },
+
+                success: function (user) {
+                    $("#Kotamadya_GIGI").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kotamadya_GIGI").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kotamadya_GIGI").change(function () {
+            $("#Kecamatan_GIGI").empty();
+            $("#FASKES_GIGI").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKecamatanList_GIGI',
+                dataType: 'json',
+                data: { id: $("#Kotamadya_GIGI").val(), idx: $("#Provinsi_GIGI").val() },
+
+                success: function (user) {
+                    $("#Kecamatan_GIGI").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kecamatan_GIGI").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kecamatan_GIGI").change(function () {
+            $("#FASKES_GIGI").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getFASKES_GIGI_LIST',
+                dataType: 'json',
+                data: { id: $("#Kecamatan_GIGI").val(), idx: $("#Provinsi_GIGI").val(), idx2: $("#Kotamadya_GIGI").val() },
+
+                success: function (user) {
+                    $("#FASKES_GIGI").empty();
+                    $.each(user, function (i, usr) {
+                        $("#FASKES_GIGI").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<!-- END GIGI -->

@@ -1,0 +1,173 @@
+﻿@model EmployeeData.Models.ListMasterFaskesModels
+
+@using (Html.BeginForm("EditFaskes", "ListMasterFaskes", FormMethod.Post))
+{
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Admin</a>
+                </li>
+                <li class="active">Employee Data</li>
+            </ul><!-- /.breadcrumb -->
+            @*<div class="nav-search" id="nav-search">
+                    <form class="form-search">
+                        <span class="input-icon">
+                            <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off">
+                            <i class="ace-icon fa fa-search nav-search-icon"></i>
+                        </span>
+                    </form>
+                </div>*@<!-- /.nav-search -->
+        </div>
+
+        <div class="page-content">
+            <div class="ace-settings-container" id="ace-settings-container">
+                <div class="btn btn-app btn-xs btn-warning ace-settings-btn" id="ace-settings-btn">
+                    <i class="ace-icon fa fa-cog bigger-130"></i>
+                </div>
+
+                <div class="ace-settings-box clearfix" id="ace-settings-box">
+                    <div class="pull-left width-50">
+                        <div class="ace-settings-item">
+                            <div class="pull-left">
+                                <select id="skin-colorpicker" class="hide">
+                                    <option data-skin="no-skin" value="#438EB9">#438EB9</option>
+                                    <option data-skin="skin-1" value="#222A2D">#222A2D</option>
+                                    <option data-skin="skin-2" value="#C6487E">#C6487E</option>
+                                    <option data-skin="skin-3" value="#D0D0D0">#D0D0D0</option>
+                                </select><div class="dropdown dropdown-colorpicker"><a data-toggle="dropdown" class="dropdown-toggle"><span class="btn-colorpicker" style="background-color:#438EB9"></span></a><ul class="dropdown-menu dropdown-caret"><li><a class="colorpick-btn selected" style="background-color:#438EB9;" data-color="#438EB9"></a></li><li><a class="colorpick-btn" style="background-color:#222A2D;" data-color="#222A2D"></a></li><li><a class="colorpick-btn" style="background-color:#C6487E;" data-color="#C6487E"></a></li><li><a class="colorpick-btn" style="background-color:#D0D0D0;" data-color="#D0D0D0"></a></li></ul></div>
+                            </div>
+                            <span>&nbsp; Choose Skin</span>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-navbar" autocomplete="off">
+                            <label class="lbl" for="ace-settings-navbar"> Fixed Navbar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-sidebar" autocomplete="off">
+                            <label class="lbl" for="ace-settings-sidebar"> Fixed Sidebar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-breadcrumbs" autocomplete="off">
+                            <label class="lbl" for="ace-settings-breadcrumbs"> Fixed Breadcrumbs</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-rtl" autocomplete="off">
+                            <label class="lbl" for="ace-settings-rtl"> Right To Left (rtl)</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-add-container" autocomplete="off">
+                            <label class="lbl" for="ace-settings-add-container">
+                                Inside
+                                <b>.container</b>
+                            </label>
+                        </div>
+                    </div><!-- /.pull-left -->
+
+                    <div class="pull-left width-50">
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-hover" autocomplete="off">
+                            <label class="lbl" for="ace-settings-hover"> Submenu on Hover</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-compact" autocomplete="off">
+                            <label class="lbl" for="ace-settings-compact"> Compact Sidebar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-highlight" autocomplete="off">
+                            <label class="lbl" for="ace-settings-highlight"> Alt. Active Item</label>
+                        </div>
+                    </div><!-- /.pull-left -->
+                </div><!-- /.ace-settings-box -->
+            </div><!-- /.ace-settings-container -->
+
+            <div class="page-header">
+                <h1>
+                    HR Employee Data
+                    <small>
+                        <i class="ace-icon fa fa-angle-double-right"></i>
+                        Edit Data Faskes
+                    </small>
+                </h1>
+            </div><!-- /.page-header -->
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <div class="row">
+                        <div class="col-xs-12">
+
+                            <form class="form-horizontal">
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> idx </label>
+                                    <div class="col-sm-9">
+                                        @Html.TextBox("idx", null, new { id = "idx", @class = "col-xs-10 col-sm-5", @placeholder = "", @readonly = "readonly" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Faskes </label>
+
+                                    <div class="col-sm-9">
+                                        <div class="col-sm-9">
+                                            @Html.DropDownListFor(model => model.Faskes_GIGI_ID, Model.Faskes_GIGI, new { id = "Faskes_GIGI", @class = "form-control" })
+                                        </div>
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Provinsi FASKES </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Provinsi_ID, Model.Provinsi, new { id = "Provinsi", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kotamadya FASKES </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.KotaMadya_ID, Model.KotaMadya, new { id = "KotaMadya", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kecamatan FASKES </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Kecamatan_ID, Model.Kecamatan, new { id = "Kecamatan", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> FASKES </label>
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.NamaFaskes_ID, Model.NamaFaskes, new { id = "NamaFaskes", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div style="margin-left:15px">
+                                    <button class="btn btn-sm btn-success" type="submit" name="submit" id="Submit" value="Submit" @*disabled="@Model.Disabled"*@ style="margin-left:100px; height:40px; width:100px">
+                                        Submit
+                                    </button>
+                                    <button class="btn navbar-btn" type="submit" name="submit" id="back" value="Back" style="height:40px; width:100px; margin-left:30px; ">
+                                        Back
+                                    </button>
+                                </div><br />
+                                <div class="col-xs-12">
+                                    @Html.Raw(TempData["messageRequest"])
+                                    @Html.Raw(TempData["SuccessRequest"])
+                                    @Html.Raw(TempData["ErrorRequest"])
+
+                                    <b><font color="Red">@Html.Raw(TempData["CountData"])</font></b>
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<script src="~/assets/js/jquery-2.1.4.min.js"></script>

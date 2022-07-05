@@ -1,0 +1,739 @@
+C:\Project\CODING\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\Project\CODING\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Owin.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Project\CODING\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Project\CODING\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Project\CODING\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Project\CODING\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Project\CODING\EmployeeData\EmployeeData\bin\ExcelLibrary.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Owin.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\New folder\tugas\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\New folder\tugas\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\New folder\tugas\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Owin.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Users\ajeng eksa\Desktop\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Owin.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Project\CODING\HR\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Project\CODING\HR\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Project\CODING\HR\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Owin.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Project\CODING\HR\New EmployeeData\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Owin.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\New EmployeeData\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EmployeeData.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EntityFramework.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Owin.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\WebGrease.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EntityFramework.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+C:\Users\Rizky Ardianto\Desktop\TOTORO\VisualStudio\Project\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EmployeeData.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Owin.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\WebGrease.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+D:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\ApplicationInsights.config
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\csc.exe
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\System.Collections.Immutable.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\System.Reflection.Metadata.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\vbc.exe
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\roslyn\VBCSCompiler.exe.config
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EmployeeData.dll.config
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EmployeeData.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EmployeeData.pdb
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Antlr3.Runtime.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Web.Infrastructure.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Newtonsoft.Json.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Owin.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Helpers.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Mvc.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Optimization.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Razor.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\WebGrease.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.DependencyCollector.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.Web.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AI.WindowsServer.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.ApplicationInsights.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Helpers.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Mvc.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Optimization.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.Razor.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Deployment.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\System.Web.WebPages.Razor.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Antlr3.Runtime.pdb
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Newtonsoft.Json.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\EntityFramework.SqlServer.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Google.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\obj\Debug\EmployeeData.dll
+E:\Freelance\Office\Toro\ALL PROJECT\EmployeeData\EmployeeData\obj\Debug\EmployeeData.pdb

@@ -1,0 +1,507 @@
+﻿@model EmployeeData.Models.ListMasterFaskesModels
+@{
+    ViewBag.Title = "List Master Faskes";
+}
+@using (Html.BeginForm("ListMasterFaskes", "ListMasterFaskes", FormMethod.Post))
+{
+    <div class="main-content-inner">
+        <div class="breadcrumbs ace-save-state" id="breadcrumbs">
+            <ul class="breadcrumb">
+                <li>
+                    <i class="ace-icon fa fa-home home-icon"></i>
+                    <a href="#">Admin</a>
+                </li>
+                <li class="active">List Master Faskes</li>
+            </ul><!-- /.breadcrumb -->
+            @*<div class="nav-search" id="nav-search">
+                    <form class="form-search">
+                        <span class="input-icon">
+                            <input type="text" placeholder="Search ..." class="nav-search-input" id="nav-search-input" autocomplete="off">
+                            <i class="ace-icon fa fa-search nav-search-icon"></i>
+                        </span>
+                    </form>
+                </div>*@<!-- /.nav-search -->
+        </div>
+
+        <div class="page-content">
+            <div class="ace-settings-container" id="ace-settings-container">
+                <div class="btn btn-app btn-xs btn-warning ace-settings-btn" id="ace-settings-btn">
+                    <i class="ace-icon fa fa-cog bigger-130"></i>
+                </div>
+
+                <div class="ace-settings-box clearfix" id="ace-settings-box">
+                    <div class="pull-left width-50">
+                        <div class="ace-settings-item">
+                            <div class="pull-left">
+                                <select id="skin-colorpicker" class="hide">
+                                    <option data-skin="no-skin" value="#438EB9">#438EB9</option>
+                                    <option data-skin="skin-1" value="#222A2D">#222A2D</option>
+                                    <option data-skin="skin-2" value="#C6487E">#C6487E</option>
+                                    <option data-skin="skin-3" value="#D0D0D0">#D0D0D0</option>
+                                </select><div class="dropdown dropdown-colorpicker"><a data-toggle="dropdown" class="dropdown-toggle"><span class="btn-colorpicker" style="background-color:#438EB9"></span></a><ul class="dropdown-menu dropdown-caret"><li><a class="colorpick-btn selected" style="background-color:#438EB9;" data-color="#438EB9"></a></li><li><a class="colorpick-btn" style="background-color:#222A2D;" data-color="#222A2D"></a></li><li><a class="colorpick-btn" style="background-color:#C6487E;" data-color="#C6487E"></a></li><li><a class="colorpick-btn" style="background-color:#D0D0D0;" data-color="#D0D0D0"></a></li></ul></div>
+                            </div>
+                            <span>&nbsp; Choose Skin</span>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-navbar" autocomplete="off">
+                            <label class="lbl" for="ace-settings-navbar"> Fixed Navbar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-sidebar" autocomplete="off">
+                            <label class="lbl" for="ace-settings-sidebar"> Fixed Sidebar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-breadcrumbs" autocomplete="off">
+                            <label class="lbl" for="ace-settings-breadcrumbs"> Fixed Breadcrumbs</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-rtl" autocomplete="off">
+                            <label class="lbl" for="ace-settings-rtl"> Right To Left (rtl)</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2 ace-save-state" id="ace-settings-add-container" autocomplete="off">
+                            <label class="lbl" for="ace-settings-add-container">
+                                Inside
+                                <b>.container</b>
+                            </label>
+                        </div>
+                    </div><!-- /.pull-left -->
+
+                    <div class="pull-left width-50">
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-hover" autocomplete="off">
+                            <label class="lbl" for="ace-settings-hover"> Submenu on Hover</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-compact" autocomplete="off">
+                            <label class="lbl" for="ace-settings-compact"> Compact Sidebar</label>
+                        </div>
+
+                        <div class="ace-settings-item">
+                            <input type="checkbox" class="ace ace-checkbox-2" id="ace-settings-highlight" autocomplete="off">
+                            <label class="lbl" for="ace-settings-highlight"> Alt. Active Item</label>
+                        </div>
+                    </div><!-- /.pull-left -->
+                </div><!-- /.ace-settings-box -->
+            </div><!-- /.ace-settings-container -->
+
+            <div class="page-header">
+                <h1>
+                    Admin
+                    <small>
+                        <i class="ace-icon fa fa-angle-double-right"></i>
+                        List Master Faskes
+                    </small>
+                </h1>
+            </div><!-- /.page-header -->
+
+            <div class="row">
+                <div class="col-xs-12">
+                    <!-- PAGE CONTENT BEGINS -->
+                    <div class="row">
+                        <div class="col-xs-12">
+                            @Html.Raw(TempData["message"])
+                            <form class="form-horizontal">
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Faskes </label>
+                                    <div class="col-sm-9">
+                                         @Html.DropDownListFor(model => model.Faskes_GIGI_ID, Model.Faskes_GIGI, new { id = "Faskes_GIGI", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Provinsi </label>
+                                    <div class="col-sm-9">
+                                         @Html.DropDownListFor(model => model.Provinsi_ID, Model.Provinsi, new { id = "Provinsi", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kotamadya </label>
+
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.KotaMadya_ID, Model.KotaMadya, new { id = "KotaMadya", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Kecamatan </label>
+
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.Kecamatan_ID, Model.Kecamatan, new { id = "Kecamatan_FASKES", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+                                <div class="form-group">
+                                    <label class="col-sm-3 control-label no-padding-right" for="form-field-1" style="width: 102px;"> Nama Faskes </label>
+
+                                    <div class="col-sm-9">
+                                        @Html.DropDownListFor(model => model.NamaFaskes_ID, Model.NamaFaskes, new { id = "NamaFaskes", @class = "form-control" })
+                                    </div>
+                                </div><br /><br />
+
+                                <div style="margin-left:15px">
+                                    <button class="btn btn-sm btn-success" type="submit" name="submit" id="Search" value="Search" style="margin-left:100px; height:40px; width:100px">
+                                        Search
+                                    </button>
+                                    @*<button class="btn navbar-btn" type="submit" name="submit" id="Upload" value="Upload" style="height:40px; width:100px; margin-left:30px; ">
+                                        Upload
+                                    </button>*@
+                                </div><br />
+                            </form>
+                            <div class="table-header">
+                                Employee
+                            </div>
+
+                            <!-- div.table-responsive -->
+                            <!-- div.dataTables_borderWrap -->
+                            <div>
+                                <div class="dataTables_wrapper form-inline no-footer">
+                                    <div class="ui-jqgrid-hdiv ui-state-default">
+                                        <div class="ui-jqgrid-hbox">
+                                            <table id="dynamic-table" class="table table-striped table-bordered table-hover dataTable no-footer" role="grid" aria-describedby="dynamic-table_info">
+                                                <thead>
+                                                    <tr role="row" style="font-size:12px">
+                                                        <th tabindex="0" aria-controls="dynamic-table" rowspan="1" colspan="1">No</th>
+                                                        <th tabindex="2" aria-controls="dynamic-table" rowspan="1" colspan="1">Provinsi</th>
+                                                        <th tabindex="3" aria-controls="dynamic-table" rowspan="1" colspan="1">Kotamadya</th>
+                                                        <th tabindex="5" aria-controls="dynamic-table" rowspan="1" colspan="1">Kecamatan</th>
+                                                        <th tabindex="6" aria-controls="dynamic-table" rowspan="1" colspan="1">Nama Faskes</th>
+                                                        <th tabindex="6" aria-controls="dynamic-table" rowspan="1" colspan="1">idx</th>
+                                                        <th rowspan="1" colspan="1" aria-label=""></th>
+                                                    </tr>
+                                                </thead>
+
+                                                <tbody>
+                                                    @for (int i = 0; i < Model.GetFaskes.Count; i++)
+                                                    {
+                                                        <tr style="font-size:12px">
+                                                            <td>
+                                                                @Model.GetFaskes[i].No
+                                                            </td>
+                                                            
+                                                            <td>
+                                                                @Model.GetFaskes[i].Provinsi_ID
+                                                            </td>
+                                                            <td>
+                                                                @Model.GetFaskes[i].KotaMadya_ID
+                                                            </td>
+
+                                                            <td>
+                                                                @Model.GetFaskes[i].Kecamatan_ID
+                                                            </td>
+                                                            <td>
+                                                                @Model.GetFaskes[i].NamaFaskes_ID
+                                                            </td>
+                                                            <td>
+                                                                @Model.GetFaskes[i].idx
+                                                            </td>
+                                                            <td>
+                                                                <div class="hidden-sm hidden-xs action-buttons">
+                                                                    <a class="green" target="_blank" href="@Url.Action("EditFaskes", "ListMasterFaskes", new {idx = @Model.GetFaskes[i].idx,Faskes = @Model.GetFaskes[i].NamaFaskes_ID, Prov = @Model.GetFaskes[i].Provinsi_ID, Kota = @Model.GetFaskes[i].KotaMadya_ID, Kec = @Model.GetFaskes[i].Kecamatan_ID, TypeFaskes = Model.Faskes_GIGI_ID })">
+                                                                        Edit
+                                                                    </a>
+
+                                                                    <a class="red" href="#">
+                                                                        @Html.ActionLink("Delete", "DeleteFaskes", new { Faskes = @Model.GetFaskes[i].NamaFaskes_ID,Prov = @Model.GetFaskes[i].Provinsi_ID,Kota = @Model.GetFaskes[i].KotaMadya_ID, Kec = @Model.GetFaskes[i].Kecamatan_ID, TypeFaskes = Model.Faskes_GIGI_ID }, new { @onclick = "return confirm('Are you sure you want to delete this record?');" })
+                                                                    </a>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    }
+                                                </tbody>
+                                            </table>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+                    <!-- PAGE CONTENT ENDS -->
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.page-content -->
+    </div>
+}
+<script src="~/assets/js/jquery-2.1.4.min.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Faskes_GIGI").change(function () {
+            
+            $("#Provinsi").empty();
+            $("#KotaMadya").empty();
+            $("#Kecamatan_FASKES").empty();
+            $("#NamaFaskes").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'GetListMasterFaskes',
+                dataType: 'json',
+                data: { id: $("#Faskes_GIGI").val() },
+
+                success: function (user) {
+                    $("#Provinsi").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Provinsi").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Provinsi").change(function () {
+            $("#KotaMadya").empty();
+            $("#Kecamatan_FASKES").empty();
+            $("#NamaFaskes").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKotaMadyaList',
+                dataType: 'json',
+                data: { id: $("#Provinsi").val(), idx: $("#Faskes_GIGI").val() },
+
+                success: function (user) {
+                    $("#KotaMadya").empty();
+                    $.each(user, function (i, usr) {
+                        $("#KotaMadya").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#KotaMadya").change(function () {
+            $("#Kecamatan_FASKES").empty();
+            $("#NamaFaskes").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKecamatanList',
+                dataType: 'json',
+                data: { id: $("#KotaMadya").val(), idx: $("#Provinsi").val(), idx2: $("#Faskes_GIGI").val() },
+
+                success: function (user) {
+                    $("#Kecamatan_FASKES").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kecamatan_FASKES").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kecamatan").change(function () {
+            $("#NamaFaskes").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKelurahanList',
+                dataType: 'json',
+                data: { id: $("#Kecamatan").val(), idx: $("#Provinsi").val(), idx2: $("#KotaMadya").val(), idx3: $("#NamaFaskes").val() },
+
+                success: function (user) {
+                    $("#NamaFaskes").empty();
+                    $.each(user, function (i, usr) {
+                        $("#NamaFaskes").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Provinsi_FASKES").change(function () {
+            $("#Kotamadya_FASKES").empty();
+            $("#Kecamatan_FASKES").empty();
+            $("#FASKES_TK").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKotaMadyaList_FASKES',
+                dataType: 'json',
+                data: { id: $("#Provinsi_FASKES").val() },
+
+                success: function (user) {
+                    $("#Kotamadya_FASKES").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kotamadya_FASKES").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kotamadya_FASKES").change(function () {
+            $("#Kecamatan_FASKES").empty();
+            $("#FASKES_TK").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKecamatanList_FASKES',
+                dataType: 'json',
+                data: { id: $("#Kotamadya_FASKES").val(), idx: $("#Provinsi_FASKES").val() },
+
+                success: function (user) {
+                    $("#Kecamatan_FASKES").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kecamatan_FASKES").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kecamatan_FASKES").change(function () {
+
+            $("#NamaFaskes").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getFASKES_LIST',
+                dataType: 'json',
+                data: { id: $("#Kecamatan_FASKES").val(), idx: $("#Provinsi").val(), idx2: $("#KotaMadya").val(), idx3: $("#Faskes_GIGI").val() },
+
+                success: function (user) {
+                    $("#NamaFaskes").empty();
+                    $.each(user, function (i, usr) {
+                        $("#NamaFaskes").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+
+<!-- GIGI -->
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $("#Provinsi_GIGI").change(function () {
+            $("#Kotamadya_GIGI").empty();
+            $("#Kecamatan_GIGI").empty();
+            $("#FASKES_GIGI").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKotaMadyaList_GIGI',
+                dataType: 'json',
+                data: { id: $("#Provinsi_GIGI").val() },
+
+                success: function (user) {
+                    $("#Kotamadya_GIGI").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kotamadya_GIGI").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        });
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kotamadya_GIGI").change(function () {
+            $("#Kecamatan_GIGI").empty();
+            $("#FASKES_GIGI").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getKecamatanList_GIGI',
+                dataType: 'json',
+                data: { id: $("#Kotamadya_GIGI").val(), idx: $("#Provinsi_GIGI").val() },
+
+                success: function (user) {
+                    $("#Kecamatan_GIGI").empty();
+                    $.each(user, function (i, usr) {
+                        $("#Kecamatan_GIGI").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#Kecamatan_GIGI").change(function () {
+            $("#FASKES_GIGI").empty();
+            $.ajax({
+                type: 'POST',
+                url: 'getFASKES_GIGI_LIST',
+                dataType: 'json',
+                data: { id: $("#Kecamatan_GIGI").val(), idx: $("#Provinsi_GIGI").val(), idx2: $("#Kotamadya_GIGI").val() },
+
+                success: function (user) {
+                    $("#FASKES_GIGI").empty();
+                    $.each(user, function (i, usr) {
+                        $("#FASKES_GIGI").append('<option value="' + usr.Value + '">' +
+                             usr.Text + '</option>');
+                    });
+                },
+                error: function (ex) {
+                    alert('Failed to retrieve states.' + ex);
+                }
+            });
+            return false;
+        })
+    });
+</script>
+<!-- END GIGI -->
